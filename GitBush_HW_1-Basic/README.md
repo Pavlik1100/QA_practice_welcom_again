@@ -35,7 +35,7 @@ curl 'http://162.55.220.72:5005/terminal-hw-request'
 8) Вывести список содержимого папки `la -la`  
 13) Переместить любые 2 файла, которые вы создали, в любую другую папку `mv 4.json 5.json dir_1/` 
    
-запуск файла "script" с готовым скриптом командой `/.script`
+запуск файла "script" с готовым скриптом командой `bush script.sc`
 ```sh
 #!/bin/bash  
 mkdir fold
@@ -47,3 +47,7 @@ mkdir fold1 fold2 fold3
 ls -la  
 mv -v 04.json 05.json fold3  
 ```
+## 🚏 Navigate:
+[![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/Linux_terminal_GitBash_comands)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/main)
+## 📫 How to reach me:  
+[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
