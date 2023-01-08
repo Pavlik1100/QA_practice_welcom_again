@@ -47,6 +47,7 @@ mkdir fold1 fold2 fold3
 ls -la  
 mv -v 04.json 05.json fold3  
 ```
+## [Папака со скриптом для задания *2](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/Linux_terminal_GitBash_comands/GitBush_HW_1-Basic/script)
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/Linux_terminal_GitBash_comands)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/main)
 ## 📫 How to reach me:  
