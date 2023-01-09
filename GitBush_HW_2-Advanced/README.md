@@ -16,6 +16,12 @@ Termial. HW_2
 ```
  7. Зайти в папку inner_dir_1 `cd inner_dir_1`
  8. Через cat сделать текстовый файл tf_3.txt  c любыми строками
+```sh
+ cat>tf_3.txt
+ pervaya stroka
+ vtoraya stroka
+ tret'ya stroka
+```
  9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
  10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
  11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
