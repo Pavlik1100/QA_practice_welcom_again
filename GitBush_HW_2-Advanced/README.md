@@ -20,7 +20,7 @@ Termial. HW_2
  cat>tf_3.txt
  pervaya stroka
  vtoraya stroka
- tret'ya stroka
+ tretya stroka
 ```
  9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
  10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
