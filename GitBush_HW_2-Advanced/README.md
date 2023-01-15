@@ -23,20 +23,96 @@ Termial. HW_2
  tretya stroka
 ```
  9. Через cat добавить в текстовый файл tf_3.txt строку “the second 2”
+ ```sh
+ cat>>tf_3.txt
+ the second 2
+ ```
  10. Через cat добавить в текстовый файл tf_3.txt строку “the sec 2”
+ ```sh
+ cat>>tf_3.txt
+ the sec 2
+ ```
  11. Через cat добавить в текстовый файл tf_2.txt строку “the sec 3”
+ ```sh
+ cat>>tf_2.txt
+ the sec 3
+ ```
  12. Через cat добавить в текстовый файл tf_3.txt строку “the SeCoNd 2”
+ ```sh
+ cat>>tf_3.txt
+ the SeCoNd 2
+ ```
  13. Через cat добавить в текстовый файл tf_2.txt строку “the seConD 2”
+ ```sh
+ cat>>tf_2.txt
+ the seConD 2
+ ```
  14. Сделать текстовый файл tf_4.txt в котором будет 15 строк.
+ ```sh
+ cat>tf_4.txt
+ string 1
+ string 2
+ string 3
+ string 4
+ string 5
+ string 6
+ string 7
+ string 8
+ string 9
+ string 10
+ string 11
+ string 12
+ string 13
+ string 14
+ string 15
+ ```
  15. Сделать текстовый файл tF_5.txt в котором будет 13 строк.
+  ```sh
+ cat>tF_5.txt
+ string 1
+ string 2
+ string 3
+ string 4
+ string 5
+ string 6
+ string 7
+ string 8
+ string 9
+ string 10
+ string 11
+ string 12
+ string 13
+ ```
  16. Вывести список всех файлов в папке.
+ ```sh
+ ls -la
+ ```
  17. Выйти из папки inner_dir_1
+ ```sh
+ cd ..
+ ```
  18. Вывести содержимое файла tf_3.txt в терминал.
+ ```sh
+ cat inner_dir_1/tf_3.txt
+ ``` 
  19. Найти путь к файлу tf_4.txt
+ ```sh
+ find . -name 'tf_4.txt'
+ ```
  20. Отчистить файл tf_4.txt от содержимого без удаления самого файла.
+ ```sh
+ cat>inner_dir_1/tf_4.txt
+ ```
  21. Найти путь к файлам у которых есть  “tf” в названии.
+ ```sh
+ find . -name 'tf*.*'
+ ```
  22. Найти путь к файлам у которых есть  “tf” в названии и буквы в любом регистре.
+ ```sh
+ find . -iname 'tf*.*'
+ ```
  23. Найти строки в файлах где есть комбинация букв “sec” в текущей папке
+ 
  24. Найти строки в файлах где есть комбинация букв “sec” в любом регистре в текущей папке
  25. Найти строки в файлах где есть только комбинация букв “sec” в текущей папке
  26. Найти строки в файлах где есть только комбинация букв “sec” в любом регистре в текущей папке
