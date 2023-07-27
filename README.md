@@ -11,7 +11,7 @@
 ```
 [GitBush_HW_3-Log_script](https://github.com/Pavlik1100/QA_practice_welcom_again/tree/Linux_terminal_GitBash_comands/GitBush_HW_3-Log_script)  
 ```sh
-Сохранение потока логов 
+Сохранение потока логов. 
 ```
 
 ## 🚏 Navigate:
